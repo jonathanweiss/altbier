@@ -1,0 +1,24 @@
+{
+  "name": "altbier",
+  "version": "1.0.0",
+  "description": "Front-end framework for classic single page applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathanweiss/altbier.git"
+  },
+  "keywords": [
+    "framework",
+    "frontend",
+    "front-end"
+  ],
+  "author": "Jonathan Weiß <info@jonathanweiss.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jonathanweiss/altbier/issues"
+  },
+  "homepage": "https://github.com/jonathanweiss/altbier#readme"
+}
